@@ -1,11 +1,13 @@
 # Next.js 15 Project - Beginner 
 
 ## Project Description
-This project follows the ["Learn Next.js 15 in 1 hour - Beginner Tutorial"](https://www.youtube.com/watch?v=_EgI9WH8q1A) by [Codevolution](https://www.youtube.com/@Codevolution). It covers the basics of Next.js 15, including pages, routing, route handling, and more.
+This is a hands-on learning project where I followed the ["Learn Next.js 15 in 1 hour - Beginner Tutorial"](https://www.youtube.com/watch?v=_EgI9WH8q1A) by [Codevolution](https://www.youtube.com/@Codevolution). It covers the basics of Next.js 15, including pages, routing, route handling, and more.
 
 ### Built Using
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
